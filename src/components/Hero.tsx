@@ -67,7 +67,7 @@ const Hero = () => {
               size="lg"
               variant="outline"
               onClick={scrollToContact}
-              className="border-primary-foreground/50 text-primary-foreground hover:bg-primary-foreground/10"
+              className="bg-secondary text-primary-foreground hover:bg-primary-foreground/90 font-semibold px-8"
             >
               Entre em Contato
             </Button>
