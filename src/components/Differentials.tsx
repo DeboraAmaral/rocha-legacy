@@ -99,7 +99,7 @@ const Differentials = () => {
             pode ajudar seu negócio a crescer com segurança e eficiência.
           </p>
           <button
-            onClick={() => window.open("https://wa.me/5511999999999?text=Olá! Gostaria de agendar uma conversa sobre os serviços da Rocha Assessoria Contábil.", "_blank")}
+            onClick={() => window.open("https://wa.me/5519996444205?text=Olá! Gostaria de agendar uma conversa sobre os serviços da Rocha Assessoria Contábil.", "_blank")}
             className="inline-flex items-center gap-2 bg-primary-foreground text-secondary hover:bg-primary-foreground/90 font-semibold px-8 py-4 rounded-lg transition-colors"
           >
             Agende uma Conversa

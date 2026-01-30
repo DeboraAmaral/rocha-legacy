@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 const Hero = () => {
   const handleWhatsApp = () => {
     window.open(
-      "https://wa.me/5511999999999?text=Olá! Gostaria de mais informações sobre os serviços da Rocha Assessoria Contábil.",
+      "https://wa.me/5519996444205?text=Olá! Gostaria de mais informações sobre os serviços da Rocha Assessoria Contábil.",
       "_blank"
     );
   };

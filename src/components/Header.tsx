@@ -50,12 +50,12 @@ const Header = () => {
 
           {/* CTA Button - Desktop */}
           <div className="hidden lg:flex items-center gap-4">
-            <a href="tel:+551199999999" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
+            <a href="tel:+551934070665" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
               <Phone className="h-4 w-4" />
-              <span className="text-sm font-medium">(11) 9999-9999</span>
+              <span className="text-sm font-medium">(19) 3407-0665</span>
             </a>
             <Button
-              onClick={() => window.open("https://wa.me/5511999999999?text=Olá! Gostaria de mais informações sobre os serviços da Rocha Assessoria Contábil.", "_blank")}
+              onClick={() => window.open("https://wa.me/5519996444205?text=Olá! Gostaria de mais informações sobre os serviços da Rocha Assessoria Contábil.", "_blank")}
               className="gradient-primary text-primary-foreground hover:opacity-90 transition-opacity"
             >
               Fale Conosco

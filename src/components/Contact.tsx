@@ -10,20 +10,19 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Endereço",
-    content: "Av. Paulista, 1000 - Sala 501",
-    detail: "Bela Vista, São Paulo - SP, 01310-100",
+    content: "Rua Maestro Silvio Bianchi, nº 497",
+    detail: "Cordenonsi, Americana - SP",
   },
   {
     icon: Phone,
     title: "Telefone",
-    content: "(11) 9999-9999",
-    detail: "(11) 3333-3333",
+    content: "Contato: (19) 3407-0665",
+    detail: "WhatsApp: (19) 99644-4205",
   },
   {
     icon: Mail,
     title: "E-mail",
-    content: "contato@rochacontabil.com.br",
-    detail: "financeiro@rochacontabil.com.br",
+    content: "contato@rochacontabil.com.br"
   },
   {
     icon: Clock,
@@ -80,7 +79,7 @@ const Contact = () => {
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-12">
+        <div className="gap-8">
           {/* Contact Info */}
           <div>
             <div className="grid sm:grid-cols-2 gap-6 mb-8">
@@ -99,22 +98,22 @@ const Contact = () => {
               ))}
             </div>
 
-            {/* Map */}
+            {/* Map 
             <div className="bg-card rounded-xl border border-border overflow-hidden shadow-sm">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.0976851289424!2d-46.65512548502153!3d-23.56399098468076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c8da0aa315%3A0xd59f9431f2c9776a!2sAv.%20Paulista%2C%20S%C3%A3o%20Paulo%20-%20SP!5e0!3m2!1spt-BR!2sbr!4v1699561234567!5m2!1spt-BR!2sbr"
                 width="100%"
                 height="250"
-                style={{ border: 0 }}
+                style={{ border: 0}}
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
                 title="Localização Rocha Assessoria Contábil"
               />
-            </div>
+            </div>*/}
           </div>
 
-          {/* Contact Form */}
+          {/* Contact Form 
           <div className="bg-card rounded-xl p-8 border border-border shadow-sm">
             <h3 className="text-xl font-bold text-foreground mb-6">
               Envie sua mensagem
@@ -199,7 +198,7 @@ const Contact = () => {
             <p className="text-xs text-muted-foreground mt-4 text-center">
               Ao enviar, você concorda com nossa política de privacidade.
             </p>
-          </div>
+          </div>*/}
         </div>
       </div>
     </section>

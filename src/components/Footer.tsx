@@ -111,15 +111,15 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-primary flex-shrink-0 mt-0.5" />
                 <span className="text-secondary-foreground/80 text-sm">
-                  Av. Paulista, 1000 - Sala 501<br />
-                  Bela Vista, São Paulo - SP
+                  Rua Maestro Silvio Bianchi, nº 497<br />
+                  Cordenonsi, Americana - SP
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-primary flex-shrink-0" />
                 <div className="text-secondary-foreground/80 text-sm">
-                  <p>(11) 9999-9999</p>
-                  <p>(11) 3333-3333</p>
+                  <p>Contato: (19) 3407-0665</p>
+                  <p>WhatsApp: (19) 99644-4205</p>
                 </div>
               </li>
               <li className="flex items-center gap-3">

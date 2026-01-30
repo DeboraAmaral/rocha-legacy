@@ -69,7 +69,7 @@ const services = [
 const Services = () => {
   const handleWhatsApp = (service: string) => {
     window.open(
-      `https://wa.me/5511999999999?text=Olá! Gostaria de mais informações sobre ${service}.`,
+      `https://wa.me/5519996444205?text=Olá! Gostaria de mais informações sobre ${service}.`,
       "_blank"
     );
   };
