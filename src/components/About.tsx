@@ -35,11 +35,10 @@ const About = () => {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <span className="inline-block text-primary font-semibold mb-3">SOBRE NÓS</span>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Mais de 40 anos cuidando do seu negócio
+            Há mais de 40 anos oferecendo soluções contábeis completas e personalizadas.
           </h2>
           <p className="text-muted-foreground text-lg">
-            A Rocha Assessoria Contábil nasceu com a missão de transformar a contabilidade 
-            em uma ferramenta estratégica para o sucesso empresarial.
+            Na Rocha Assessoria Contábil, unimos tradição e experiência para prestar serviços contábeis com comprometimento e atendimento humanizado. Nosso objetivo é garantir tranquilidade e segurança para você e sua empresa em todas as decisões fiscais, tributárias, trabalhistas e administrativas.
           </p>
         </div>
 

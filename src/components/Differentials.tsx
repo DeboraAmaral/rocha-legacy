@@ -8,42 +8,37 @@ import {
 } from "lucide-react";
 
 const differentials = [
-  {
+    {
     icon: Trophy,
-    title: "Tradição no Mercado",
-    description: "Mais de 40 anos de experiência e solidez no mercado contábil, construindo relações duradouras com nossos clientes.",
+    title: "Mais de Quatro Décadas de Experiência",
+    description: "Atuação sólida no segmento contábil há mais de 40 anos, oferecendo segurança, confiança e tradição aos nossos clientes.",
     highlight: "40+ anos",
   },
   {
     icon: Heart,
-    title: "Atendimento Humanizado",
-    description: "Tratamos cada cliente de forma única, entendendo suas necessidades específicas e oferecendo soluções personalizadas.",
-    highlight: "100%",
+    title: "Atendimento Personalizado e Humanizado",
+    description: "Valorizamos o relacionamento próximo com cada cliente, oferecendo soluções personalizadas de acordo com suas necessidades.",
+    highlight: "Personalizado",
   },
   {
     icon: GraduationCap,
-    title: "Equipe Qualificada",
-    description: "Profissionais altamente capacitados e em constante atualização com as mudanças na legislação e melhores práticas.",
-    highlight: "Especialistas",
+    title: "Equipe Técnica Qualificada",
+    description: "Profissionais capacitados e em constante atualização para acompanhar as mudanças na legislação e no mercado.",
+    highlight: "Qualificação",
   },
   {
     icon: Clock,
-    title: "Compromisso com Prazos",
-    description: "Cumprimento rigoroso de todas as obrigações e prazos legais, garantindo tranquilidade para seu negócio.",
+    title: "Comprometimento com Prazos e Qualidade",
+    description: "Cumprimos rigorosamente todas as obrigações legais, garantindo organização, segurança e tranquilidade para sua empresa.",
     highlight: "Pontualidade",
   },
   {
     icon: Monitor,
-    title: "Uso de Tecnologia",
-    description: "Sistemas modernos e integrados que otimizam processos e garantem segurança e agilidade nas informações.",
-    highlight: "Inovação",
+    title: "Uso de Tecnologia Moderna",
+    description: "Utilizamos sistemas modernos para otimizar processos contábeis, garantindo agilidade e precisão nas informações.",
+    highlight: "Tecnologia",
   },
-  {
-    icon: Shield,
-    title: "Segurança e Sigilo",
-    description: "Total confidencialidade das informações dos nossos clientes, seguindo rigorosos padrões de segurança.",
-    highlight: "Confiança",
-  },
+
 ];
 
 const Differentials = () => {
