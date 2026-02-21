@@ -89,7 +89,7 @@ const Hero = () => {
                 <Users className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <p className="text-2xl font-bold text-primary-foreground">500+</p>
+                <p className="text-2xl font-bold text-primary-foreground">200+</p>
                 <p className="text-sm text-primary-foreground/80">Clientes atendidos</p>
               </div>
             </div>

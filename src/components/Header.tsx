@@ -90,12 +90,12 @@ const Header = () => {
                 </a>
               ))}
               <div className="pt-4 border-t border-border">
-                <a href="tel:+551199999999" className="flex items-center gap-2 text-muted-foreground mb-4">
+                <a href="tel:+551934070665" className="flex items-center gap-2 text-muted-foreground mb-4">
                   <Phone className="h-4 w-4" />
                   <span className="text-sm">(11) 9999-9999</span>
                 </a>
                 <Button
-                  onClick={() => window.open("https://wa.me/5511999999999?text=Olá! Gostaria de mais informações sobre os serviços da Rocha Assessoria Contábil.", "_blank")}
+                  onClick={() => window.open("https://wa.me/5519996444205?text=Olá! Gostaria de mais informações sobre os serviços da Rocha Assessoria Contábil.", "_blank")}
                   className="w-full gradient-primary text-primary-foreground"
                 >
                   Fale Conosco
