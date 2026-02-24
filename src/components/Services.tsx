@@ -12,9 +12,8 @@ const services = [
   {
     icon: Calculator,
     title: "Área Contábil",
-    description: "Abertura e alterações societárias, escrituração contábil digital, análise de balanços demonstrativos e elaboração de demonstrações financeiras.",
+    description: "Escrituração contábil digital, análise de balanços demonstrativos e elaboração de demonstrações financeiras.",
     items: [
-      "Abertura e alterações societárias",
       "Escrituração contábil digital",
       "Análise de balanços e demonstrativos",
       "Elaboração de demonstrações financeiras",
@@ -56,9 +55,8 @@ const services = [
   {
     icon: TrendingUp,
     title: "Consultoria Empresarial",
-    description: "Planejamento financeiro, análise de processos internos, consultoria estratégica contábil e suporte a decisões empresariais.",
+    description: "Análise de processos internos, consultoria estratégica contábil e suporte a decisões empresariais.",
     items: [
-      "Planejamento financeiro",
       "Análise de processos internos",
       "Consultoria estratégica contábil",
       "Suporte a decisões empresariais",
