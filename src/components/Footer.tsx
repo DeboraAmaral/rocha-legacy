@@ -141,7 +141,7 @@ const Footer = () => {
               © {new Date().getFullYear()} Rocha Assessoria Contábil. Todos os direitos reservados.
             </p>
             <p className="text-secondary-foreground/60 text-sm">
-              CNPJ: 00.000.000/0001-00
+              Desenvolvido por <a href="https://www.instagram.com/tgt.mkt" className="hover:text-primary transition-colors">TGT Marketing</a>
             </p>
           </div>
         </div>
