@@ -27,8 +27,8 @@ const contactInfo = [
   {
     icon: Clock,
     title: "Horário de Atendimento",
-    content: "Segunda a Sexta: 8h às 18h",
-    detail: "Sábado: 8h às 12h",
+    content: "Segunda a Quinta: 7:30h às 11h | 12:30h às 17h",
+    detail: "Sexta: 7:30h às 11h | 12:30h às 16:30h",
   },
 ];
 
